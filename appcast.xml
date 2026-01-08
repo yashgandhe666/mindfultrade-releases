@@ -6,6 +6,17 @@
     <description>Updates for MindfulTrade</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.2</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <pubDate>Thu, 08 Jan 2026 05:29:23 +0000</pubDate>
+      <enclosure
+        url="https://github.com/yashgandhe666/mindfultrade-releases/releases/download/v0.2.2/MindfulTrade.zip"
+        sparkle:edSignature="tylcD1a2dd0kmEp/7YGkqKF0BE5yucgCkSjomnWz+NRmn/j6OPrveCTa5tSGkhWjhWQM3X1eAsIRQQw6VDh0CQ=="
+        length="2483054"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
